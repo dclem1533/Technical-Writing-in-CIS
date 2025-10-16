@@ -6,7 +6,6 @@
 ## 🛠 How to Use / View  
 - You can download or clone the repo to view the original Word documents and the presentation.  
 - For portability and accessibility, consider exporting the `.docx` files to `.pdf` or publishing them in HTML/Markdown format.  
-- You might combine or reformat pieces to include in a digital portfolio website or curriculum vitae.
 
 ## 🎯 Goals & Learning Outcomes  
 By completing these assignments, I aimed to:  
